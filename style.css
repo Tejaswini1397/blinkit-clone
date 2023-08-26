@@ -1,0 +1,70 @@
+.location{
+
+}
+
+.location>h5{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+
+.location>p{
+    margin: 0px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.vertical-line{
+    height: 55px;
+    border-left: 2px solid #f2f2f2;
+}
+
+.search-div{
+    padding: 0px 12px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background: rgb(248, 248, 248);
+    color: rgb(130, 130, 130);
+}
+
+.search-div>input{
+    border: none;
+    background-color: transparent;
+    width: 40vw;
+    height: 45px;
+}
+
+::placeholder{
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+.my-cart{
+    background-color: #0d831e !important;
+    font-size: 14px !important;
+}
+
+.my-categories{
+    width: 95%;
+}
+.my-container{
+    margin: auto;
+    width: 93%;
+    overflow-x: scroll;
+}
+.my-list{
+    white-space: nowrap;
+}
+
+.my-list>img{
+    padding-inline: 10px;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.my-card{
+    width: 179px;
+    margin-inline:10px ;
+}
